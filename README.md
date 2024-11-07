@@ -42,8 +42,7 @@ This will use the synthetic and real-world images specified in `data.yaml` to tr
 
 ## License
 
-Specify the licensing information here (e.g., MIT, Apache 2.0, etc.).
+MIT, Apache 2.0, etc.
 
 ---
 
-This structure provides a robust foundation for training a YOLO model for drogue detection in aerial refueling, using both synthetic and real-world data.
