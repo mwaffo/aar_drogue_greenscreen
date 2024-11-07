@@ -1,0 +1,27 @@
+<annotation>
+  <folder></folder>
+  <filename>YP683_006480.png</filename>
+  <path>YP683_006480.png</path>
+  <source>
+    <sourceAnnotation>Broussard Labeler</sourceAnnotation>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>YP676</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>542</xmin>
+      <xmax>704</xmax>
+      <ymin>295</ymin>
+      <ymax>491</ymax>
+    </bndbox>
+  </object>
+</annotation>

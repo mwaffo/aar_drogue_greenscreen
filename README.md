@@ -28,7 +28,7 @@ This repository provides datasets and configuration files essential for training
 
 For YOLOv5, initiate training with:
 ```bash
-python train.py --img 640 --batch 16 --epochs 50 --data data.yaml --weights yolov5s.pt
+python train.py --img 416--batch 16 --epochs 50 --data data.yaml --weights yolov5s.pt
 ```
 This command will train the model using the data paths specified in `data.yaml`.
 

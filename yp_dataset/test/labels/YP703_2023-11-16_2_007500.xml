@@ -1,0 +1,27 @@
+<annotation>
+  <folder></folder>
+  <filename>color_flipped_007500.png</filename>
+  <path>color_flipped_007500.png</path>
+  <source>
+    <sourceAnnotation>Broussard Labeler</sourceAnnotation>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>YP703</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>688</xmin>
+      <xmax>982</xmax>
+      <ymin>531</ymin>
+      <ymax>711</ymax>
+    </bndbox>
+  </object>
+</annotation>

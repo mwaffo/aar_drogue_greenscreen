@@ -1,0 +1,6 @@
+train: ../my_data/train/images
+valid: ../my_data/valid/images
+valid: ../my_data/test/images
+
+nc: 1
+names: ['YP689']

@@ -1,0 +1,27 @@
+<annotation>
+  <folder></folder>
+  <filename>YP689_2024-01-26_015090.png</filename>
+  <path>YP689_2024-01-26_015090.png</path>
+  <source>
+    <sourceAnnotation>Broussard Labeler</sourceAnnotation>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>YP689</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>560</xmin>
+      <xmax>1121</xmax>
+      <ymin>108</ymin>
+      <ymax>407</ymax>
+    </bndbox>
+  </object>
+</annotation>
