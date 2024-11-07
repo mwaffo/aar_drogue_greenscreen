@@ -1,4 +1,4 @@
-# YOLO DNN Model Data for Aerial Refueling Drogue Detection
+# Green Screen Data for training a YOLO DNN Model for the Aerial Refueling Drogue Detection
 
 This repository contains the datasets and configuration file required to train a YOLO-based deep neural network (DNN) model specifically designed for detecting a drogue in aerial refueling scenarios.
 
